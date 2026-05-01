@@ -8,8 +8,8 @@
 
 <br>
 
-<!-- BADGES DE CONTATO: Tamanho aumentado para destaque -->
-<!--<a href="SEU_LINK_DO_LINKEDIN">
+<!-- BADGES DE CONTATO: -->
+<!--<a href="LINK_DO_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=red" height="45" />
 </a> -->
   
@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
 **Operating Systems**
 <p align="left">
