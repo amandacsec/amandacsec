@@ -49,13 +49,4 @@
 
 ---
 
-### 📊 Tactical Insights
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandacsec&show_icons=true&theme=tokyonight&color_title=ff0000&text_color=ffffff&icon_color=ff0000&hide_border=true&bg_color=000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandacsec&layout=compact&theme=tokyonight&color_title=ff0000&text_color=ffffff&hide_border=true&bg_color=000000" />
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amandacsec&color=red&style=flat-square&label=ACCESS+LOGS" alt="views" />
-</div>
